@@ -2,6 +2,7 @@ Password Hasher
 ===============
 
 You need strong, unique passwords for every site, but it's too hard to remember all of them.
+
 You can use a password vault, but what if your computer crashes (you know you haven't backed it up enough),
 or you need it on a different computer?
 
